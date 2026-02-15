@@ -1,5 +1,5 @@
 const MESAS = [
-  { mesa: 1, grupo: ["Familiaa Ocampo", "Familia Limas"], personas: 9 },
+  { mesa: 1, grupo: ["Familia Ocampo", "Familia Limas"], personas: 9 },
   { mesa: 2, grupo: ["Amigos"], personas: 15, nota: "Mesa compartida con Mesa 3 (15 amigos)." },
   { mesa: 3, grupo: ["Amigos"], personas: 15, nota: "Mesa compartida con Mesa 2 (15 amigos)." },
   { mesa: 4, grupo: ["Carlos","Deisy","Daniel","Carmen","Blanca","Jose","Paola","Wally","David","Luz"], personas: 10 },
