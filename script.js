@@ -7,7 +7,7 @@ const MESAS = [
   { mesa: 6, grupo: ["Familia Sanchez Arevalo","Familia Parra Sanchez","Familia Toloza Sanchez"], personas: 10 },
   { mesa: 7, grupo: ["Rodrigo","Graciela","Elvira","Alfredo","Otilia","Yolanda","Alex","Pilar","Zoraida","Ricardo","Humberto","Blanca"], personas: 12 },
   { mesa: 8, grupo: ["Sandy","David","Stevan","Mirian","Matias","Jose","Jenny","Rocha","Chaparro","Johana"], personas: 12, nota: "Si faltan 2 nombres en esta mesa, se pueden agregar." },
-  { mesa: 9, grupo: ["Diego","Andrea","Fm Cayetanos","Juan y esposa"], personas: 9 },
+  { mesa: 9, grupo: ["Diego","Andrea","Familia Cayetanos","Juan y esposa"], personas: 9 },
   { mesa: 10, grupo: ["Adela","Rubiela","Giovanny","Yuri","Andres","Vanesa","Stefy","Valentina","Nicolas","Santiago"], personas: 10 },
 ];
 
