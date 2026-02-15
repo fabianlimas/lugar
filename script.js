@@ -3,7 +3,7 @@ const MESAS = [
   { mesa: 2, grupo: ["Amigos"], personas: 15, nota: "Mesa compartida con Mesa 3 (15 amigos)." },
   { mesa: 3, grupo: ["Amigos"], personas: 15, nota: "Mesa compartida con Mesa 2 (15 amigos)." },
   { mesa: 4, grupo: ["Carlos","Deisy","Daniel","Carmen","Blanca","Jose","Paola","Wally","David","Luz"], personas: 10 },
-  { mesa: 5, grupo: ["Fm Arevalo Serrato","Fm Arevalo Bernal","Tio Tavo","Alfonso y Patricia"], personas: 12 },
+  { mesa: 5, grupo: ["Familia Arevalo Serrato","Fm Arevalo Bernal","Tio Tavo","Alfonso y Patricia"], personas: 12 },
   { mesa: 6, grupo: ["Fm Sanchez Arevalo","Fm Parra Sanchez","Fm Toloza Sanchez"], personas: 10 },
   { mesa: 7, grupo: ["Rodrigo","Graciela","Elvira","Alfredo","Otilia","Yolanda","Alex","Pilar","Zoraida","Ricardo","Humberto","Blanca"], personas: 12 },
   { mesa: 8, grupo: ["Sandy","David","Stevan","Mirian","Matias","Jose","Jenny","Rocha","Chaparro","Johana"], personas: 12, nota: "Si faltan 2 nombres en esta mesa, se pueden agregar." },
